@@ -3,6 +3,7 @@ title: "Example Git"
 output: html_notebook
 ---
 
+# Introduction
 
 First we load in the dataset from *quakes*, a built in dataset with R.
 
@@ -11,3 +12,10 @@ earthquakes <- data(quakes)
 print(summary(quakes))
 ```
 
+# Background
+
+Background.
+
+# Analysis
+
+Analysis
